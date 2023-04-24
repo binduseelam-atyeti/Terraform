@@ -1,6 +1,0 @@
-project = "terraform-gcp-383512"
-machine_type = "e2-medium"
-region   = "us-central1"
-zone     = "us-central1-a"
-image    = "debian-cloud/debian-11"
-service_account_id = "learn-terraform"
